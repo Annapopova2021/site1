@@ -516,6 +516,10 @@
   .statistics__text {
     font-size: 14px;
   }
+  .About__main {
+    height: 500px;
+    background: #ffffff;
+  }
 }
 
 /* products */
