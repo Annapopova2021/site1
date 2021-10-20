@@ -403,6 +403,12 @@
     height: 490px;
   }
 }
+@media (max-width: 375px) {
+ .about__main__text {
+    font-size: 11px;
+  }
+}
+
 
 /* Statistics */
 
@@ -494,7 +500,7 @@
 
 @media (max-width: 470px) {
   .statistics__num {
-    font-size: 44px;
+    font-size: 40px;
     padding-bottom: 20px;
   }
   .statistics__subtext {
@@ -502,7 +508,7 @@
     line-height: 18px;
   }
   .statistics__block__items {
-    padding: 0 20px;
+    padding: 0 10px;
   }
   .statistics__title{
     font-size: 24px;
@@ -581,28 +587,28 @@
 
 @media (max-width: 470px) {
   .products__img__orange{
-    height: 230px;
-    width: 325px;
+    height: 220px;
+    width: 310px;
   }
   .products__img__green {
-    height: 230px;
-    width: 325px;
+    height: 220px;
+    width: 310px;
   }
   .products__img__blue {
-    height: 230px;
-    width: 325px;
+    height: 220px;
+    width: 310px;
   }
   .products__img__pink {
-    height: 230px;
-    width: 325px;
+    height: 220px;
+    width: 310px;
   }
   .products__img__purpur {
-    height: 230px;
-    width: 325px;
+    height: 220px;
+    width: 310px;
   }
   .products__img__black {
-    height: 230px;
-    width: 325px;
+    height: 220px;
+    width: 310px;
   }
   .products__title {
     font-size: 18px;
