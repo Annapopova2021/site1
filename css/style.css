@@ -407,6 +407,9 @@
  .about__main__text {
     font-size: 11px;
   }
+  .About__main {
+    height: 540px;
+  }
 }
 
 
@@ -591,24 +594,24 @@
 
 @media (max-width: 470px) {
   .products__img__orange{
-    height: 220px;
-    width: 310px;
+    height: 225px;
+    width: 315px;
   }
   .products__img__green {
-    height: 220px;
-    width: 310px;
+    height: 225px;
+    width: 315px;
   }
   .products__img__blue {
-    height: 220px;
-    width: 310px;
+    height: 225px;
+    width: 315px;
   }
   .products__img__pink {
-    height: 220px;
-    width: 310px;
+    height: 225px;
+    width: 315px;
   }
   .products__img__purpur {
-    height: 220px;
-    width: 310px;
+    height: 225px;
+    width: 315px;
   }
   .products__img__black {
     height: 220px;
@@ -627,6 +630,8 @@
   .products__bottom {
     font-size: 15px;
   }
+
+  
 }
 
 /* team */
@@ -949,6 +954,11 @@
   .social__follow {
     font-size: 13px;
     padding-top: 38px;
+  }
+  .products {
+    background: #fff;
+    height: 1000px;
+    width: 100%;
   }
 }
 
